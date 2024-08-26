@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+    <contact id="1">
+        <name>John Doe</name>
+        <address>123 Main Street, New York, NY</address>
+        <phone>+1 555-1234</phone>
+        <email>johndoe@example.com</email>
+    </contact>
+    <contact id="2">
+        <name>Jane Smith</name>
+        <address>456 Elm Street, San Francisco, CA</address>
+        <phone>+1 555-5678</phone>
+        <email>janesmith@example.com</email>
+    </contact>
+    <contact id="3">
+        <name>Michael Brown</name>
+        <address>789 Oak Street, Chicago, IL</address>
+        <phone>+1 555-9876</phone>
+        <email>michaelbrown@example.com</email>
+    </contact>
+    <contact id="4">
+        <name>Emily Davis</name>
+        <address>321 Pine Street, Los Angeles, CA</address>
+        <phone>+1 555-4321</phone>
+        <email>emilydavis@example.com</email>
+    </contact>
+</contacts>
